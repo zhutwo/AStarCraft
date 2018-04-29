@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7a1700e43c775264abd72d3e34ef5035
+timeCreated: 1516496224
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - selectionMark: {instanceID: 0}
+  - statIcon: {instanceID: 0}
+  - canvas: {instanceID: 0}
+  - iconPrefab: {fileID: 1907435728804230, guid: f53a1fea84528a24d88831cf6fcb930e,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
